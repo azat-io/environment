@@ -72,6 +72,10 @@ brew install --cask microsoft-teams
 # Platform built on V8 to build network applications
 brew install node
 
+# Notion
+# App to write, plan, collaborate, and get organized
+brew install --cask notion
+
 # PNPM
 # Fast, disk space efficient package manager
 brew install pnpm
