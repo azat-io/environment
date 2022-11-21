@@ -48,6 +48,10 @@ brew install --cask github
 # Web browser
 brew install --cask google-chrome
 
+# GPG
+# GNU Pretty Good Privacy (PGP) package
+brew install gnupg
+
 # Grammarly
 # Utility to fix grammar errors and style issues in text
 brew install --cask grammarly
