@@ -112,6 +112,10 @@ brew install --cask steam
 # Messaging app with a focus on speed and security
 brew install --cask telegram
 
+# Transmission
+# Open-source BitTorrent client
+brew install --cask transmission
+
 # Vim
 # Vi 'workalike' with many additional features
 brew install vim
