@@ -6,6 +6,10 @@ brew install --cask 1password
 # Extendable version manager with support for Ruby, Node.js, Erlang & more
 brew install asdf
 
+# CrossOver
+# Tool to run Windows software
+brew install --cask crossover
+
 # Curl
 # Get a file from an HTTP, HTTPS or FTP server
 brew install curl
