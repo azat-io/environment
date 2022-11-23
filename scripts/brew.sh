@@ -108,6 +108,10 @@ brew install --cask slack
 # Music streaming service
 brew install --cask spotify
 
+# Starship
+# Cross-shell prompt for astronauts
+brew install starship
+
 # Steam
 # Video game digital distribution service
 brew install --cask steam
