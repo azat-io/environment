@@ -1,0 +1,84 @@
+[user]
+  name = Azat S.
+  email = to@azat.io
+  signingkey = 581CB0AC3AFBF6B22A866D9EAABF6A15BE5271EF
+
+[color]
+  diff   = auto
+  status = auto
+  branch = auto
+
+[color "status"]
+  added = green bold
+  changed = yellow bold
+  untracked = red bold
+
+[color "branch"]
+  current = green bold
+  remote = yellow bold
+
+[color "diff"]
+  commit = green
+  frag = cyan
+  old = red bold
+  new = green bold
+  whitespace = red reverse
+
+[apply]
+  whitespace = nowarn
+
+[merge]
+  summary = true
+  conflictstyle = diff3
+
+[push]
+  default = current
+
+[diff]
+  indentHeuristic = true
+  compactionHeuristic = true
+
+[alias]
+  aa = "!git add . && git status"
+  am = commit -S --amend --no-edit
+  bd = branch -D
+  cm = commit -S -m
+  co = checkout master
+  cc = branch -D dev && git fetch origin dev && git cd
+  cd = checkout dev
+  df = diff --color --color-words --abbrev --word-diff
+  fo = fetch origin
+  it = "!git init && git commit -S -m \"chore: root\" --allow-empty"
+  lg = log --color --graph --pretty=format:'%C(yellow bold)%h%C(reset) -%C(yellow)%d%C(7) %s %C(green bold)(%cr) %C(white bold)[%an]%Creset' --abbrev-commit
+  pl = pull origin HEAD
+  ph = push origin HEAD
+  rh = reset --hard
+  st = status
+  un = reset --soft HEAD^
+
+[core]
+  editor = vim
+  whitespace = -indent-with-non-tab,trailing-space,cr-at-eol
+  quotepath = false
+  autocrlf = input
+
+[remote "origin"]
+  proxy =
+
+[http]
+  sslVerify = false
+
+[filter "lfs"]
+  required = true
+  clean = git-lfs clean -- %f
+  smudge = git-lfs smudge -- %f
+  process = git-lfs filter-process
+
+[init]
+  defaultBranch = main
+
+[commit]
+	gpgsign = true
+
+[gpg]
+	program = /usr/local/bin/gpg
