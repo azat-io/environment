@@ -36,6 +36,10 @@ brew install homebrew-ffmpeg/ffmpeg/ffmpeg --with-fdk-aac --with-rav1e
 # Collaborative team software
 brew install --cask figma
 
+# Fonts
+brew tap homebrew/cask-fonts
+brew install font-martian-mono
+
 # Mozilla Firefox
 # Web browser
 brew install --cask firefox
