@@ -12,6 +12,14 @@ Open "System preference" / "Internet accounts".
 
 Open "System preference" / "Security & Privacy" / "FileVault".
 
+## Setup iTerm2 color theme
+
+1. Open file `gruvbox-dark.itermcolors`
+
+2. Set `gruvbox-dark` as color theme
+
+3. Replace background color to `#1d2021`
+
 ## SSH key
 
 1. Generate SSH key:
