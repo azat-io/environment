@@ -1,5 +1,17 @@
 # Setup
 
+## Update OS
+
+Open "System preference" / "Software update".
+
+## Add iCloud account
+
+Open "System preference" / "Internet accounts".
+
+## Enable FireVault
+
+Open "System preference" / "Security & Privacy" / "FileVault".
+
 ## SSH key
 
 1. Generate SSH key:
