@@ -8,7 +8,7 @@ Open "System preference" / "Software update".
 
 Open "System preference" / "Internet accounts".
 
-## Enable FireVault
+## Enable FileVault
 
 Open "System preference" / "Security & Privacy" / "FileVault".
 
