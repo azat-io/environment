@@ -31,7 +31,7 @@ ssh-keygen -t ed25519 -C "to@azat.io"
 2. Copy generated public SSH key:
 
 ```
-cat ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub | pbcopy
 ```
 
 3. Add key to GitHub and other services
@@ -61,7 +61,7 @@ ssb   4096R/42B317FD4BA89E7A 2016-03-10
 3. Get and copye GPG key:
 
 ```
-gpg --armor --export 3AA5C34371567BD2
+gpg --armor --export 3AA5C34371567BD2 | pbcopy
 ```
 
 4. Add key to GitHub and other services
