@@ -18,6 +18,7 @@ fpath=(${ASDF_DIR}/completions $fpath)
 autoload -U compinit && compinit
 
 source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /usr/local/opt/asdf/libexec/asdf.sh
 
 # Aliases
 
