@@ -20,6 +20,14 @@ Open "System preference" / "Security & Privacy" / "FileVault".
 
 3. Replace background color to `#1d2021`
 
+## Install Oh My Zsh
+
+Use this command:
+
+```
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
 ## SSH key
 
 1. Generate SSH key:
