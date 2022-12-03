@@ -12,6 +12,14 @@ Open "System preference" / "Internet accounts".
 
 Open "System preference" / "Security & Privacy" / "FileVault".
 
+## Install Homebrew
+
+Use this command:
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
 ## Setup iTerm2 color theme
 
 1. Open file `gruvbox-dark.itermcolors`
