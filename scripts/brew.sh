@@ -104,6 +104,10 @@ brew install ripgrep
 # Powerful, clean, object-oriented scripting language
 brew install ruby
 
+# Shifty
+# Menu bar app that provides more control over Night Shift
+brew install --cask shifty
+
 # Slack
 # Team communication and collaboration software
 brew install --cask slack
