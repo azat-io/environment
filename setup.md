@@ -73,6 +73,8 @@ source ~/.zshrc
 
 3. Replace background color to `#1d2021`
 
+4. Open in iTerm Preferences / Profiles / Window. Set transperency to 8
+
 ## Enable Touch ID for sudo
 
 1. Get root shell
