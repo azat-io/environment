@@ -80,6 +80,10 @@ brew install make
 # Meet, chat, call, and collaborate in just one place
 brew install --cask microsoft-teams
 
+# NeoVim
+# Ambitious Vim-fork focused on extensibility and agility
+brew install neovim
+
 # Node.js
 # Platform built on V8 to build network applications
 brew install node
@@ -131,10 +135,6 @@ brew install --cask telegram
 # Transmission
 # Open-source BitTorrent client
 brew install --cask transmission
-
-# Vim
-# Vi 'workalike' with many additional features
-brew install vim
 
 # VLC
 # Multimedia player

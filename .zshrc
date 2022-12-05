@@ -24,6 +24,7 @@ source /usr/local/opt/asdf/libexec/asdf.sh
 alias d="cd ~/Developer/"
 alias ls="exa"
 alias la="exa -la --git"
+alias vim="nvim"
 
 # History
 
