@@ -55,7 +55,6 @@ brew install --cask iterm2
 6. Install Zsh plugins:
 
 ```
-brew install zsh-autosuggestions
 brew install zsh-completions
 ```
 
