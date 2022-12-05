@@ -74,6 +74,32 @@ source ~/.zshrc
 
 3. Replace background color to `#1d2021`
 
+## Enable Touch ID for sudo
+
+1. Get root shell
+
+```
+sudo su
+```
+
+2. Add Touch ID to sudo file
+
+```
+(cat /etc/pam.d/sudo && echo "auth       sufficient     pam_tid.so") > /tmp/pam_tid.so
+```
+
+3. Move temp file
+
+```
+mv /tmp/pam_tid.so /etc/pam.d/sudo
+```
+
+4. Exit to user
+
+```
+exit
+```
+
 ## SSH key
 
 1. Generate SSH key:
