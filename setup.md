@@ -112,7 +112,7 @@ uid                          Azat S. <to@azat.io>
 ssb   4096R/42B317FD4BA89E7A 2016-03-10
 ```
 
-3. Get and copye GPG key:
+3. Get and copy GPG key:
 
 ```
 gpg --armor --export 3AA5C34371567BD2 | pbcopy
