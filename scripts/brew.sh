@@ -36,6 +36,10 @@ brew install homebrew-ffmpeg/ffmpeg/ffmpeg --with-fdk-aac --with-rav1e
 # Collaborative team software
 brew install --cask figma
 
+# FontForge
+# Font editor and converter for outline and bitmap fonts
+brew install fontforge
+
 # Fonts
 brew tap homebrew/cask-fonts
 brew install font-martian-mono
