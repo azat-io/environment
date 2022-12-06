@@ -57,7 +57,7 @@
   un = reset --soft HEAD^
 
 [core]
-  editor = vim
+  editor = nvim
   whitespace = -indent-with-non-tab,trailing-space,cr-at-eol
   quotepath = false
   autocrlf = input
