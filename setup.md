@@ -65,6 +65,12 @@ cp ./.zshrc ~/
 source ~/.zshrc
 ```
 
+8. Remove "Last login" message:
+
+```
+touch ~/.hushlogin
+```
+
 ## Setup iTerm2 color theme
 
 1. Open file `gruvbox-dark.itermcolors`
