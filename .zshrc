@@ -11,7 +11,12 @@ eval "$(starship init zsh)"
 
 plugins=(
   asdf
+  docker
+  docker-compose
   git
+  npm
+  ripgrep
+  yarn
 )
 
 fpath=(${ASDF_DIR}/completions $fpath)
