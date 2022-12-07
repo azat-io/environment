@@ -135,11 +135,14 @@ In this example long form is `3AA5C34371567BD2`:
 
 ```
 sec   4096R/3AA5C34371567BD2 2016-03-10 [expires: 2017-03-10]
+      581CB0AC3AFBF6B22A866D9EAABF6A15BE5271EF
 uid                          Azat S. <to@azat.io>
 ssb   4096R/42B317FD4BA89E7A 2016-03-10
 ```
 
-3. Get and copy GPG key:
+3. Add signing key to `.gitconfig`
+
+4. Get and copy GPG key:
 
 ```
 gpg --armor --export 3AA5C34371567BD2 | pbcopy

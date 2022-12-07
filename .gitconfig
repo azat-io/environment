@@ -4,7 +4,7 @@
   signingkey = 581CB0AC3AFBF6B22A866D9EAABF6A15BE5271EF
 
 [color]
-  diff   = auto
+  diff = auto
   status = auto
   branch = auto
 
