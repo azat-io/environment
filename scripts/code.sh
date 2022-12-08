@@ -92,6 +92,10 @@ code --install-extension shyykoserhiy.vscode-spotify
 # Syntax Highlighting for yarn.lock files
 code --install-extension mariusschulz.yarn-lock-syntax
 
+# TabNine
+# JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin
+code --install-extension TabNine.tabnine-vscode
+
 # Vue Language Features
 # Language support for Vue 3
 code --install-extension Vue.volar
