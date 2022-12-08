@@ -155,3 +155,14 @@ gpg --armor --export 3AA5C34371567BD2 | pbcopy
 ```
 
 4. Add key to GitHub and other services
+
+## Install apps
+
+Run installation scipts:
+
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/azat-io/environment/main/scripts/brew.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/azat-io/environment/main/scripts/code.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/azat-io/environment/main/scripts/lsp.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/azat-io/environment/main/scripts/asdf.sh)"
+```
