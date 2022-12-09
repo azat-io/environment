@@ -40,32 +40,25 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 brew install starship
 ```
 
-4. Setup Zsh config:
-
-```
-cp ./.zshrc ~/
-```
-
-5. Install Iterm2:
+1. Install Iterm2:
 
 ```
 brew install --cask iterm2
 ```
 
-6. Install Zsh plugins:
+5. Install Zsh plugins:
 
 ```
 brew install zsh-completions
 ```
 
-7. Update `.zshrc`:
+6. Update `.zshrc`:
 
 ```
-cp ./.zshrc ~/
-source ~/.zshrc
+cd ~/ && curl -OL https://raw.githubusercontent.com/azat-io/environment/main/.zshrc
 ```
 
-8. Remove "Last login" message:
+7. Remove "Last login" message:
 
 ```
 touch ~/.hushlogin
