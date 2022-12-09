@@ -19,8 +19,11 @@ packer.startup(function(use)
   use 'hrsh7th/nvim-cmp' -- Completition
   use 'neovim/nvim-lspconfig' -- LSP
   use 'kyazdani42/nvim-web-devicons' -- File icons
+  use 'nvim-treesitter/nvim-treesitter'
   use {
-    'nvim-treesitter/nvim-treesitter',
-    run = function() require('nvim-treesitter.install').update({ with_sync = true }) end,
+    'nvim-tree/nvim-tree.lua',
+    requires = {
+      'nvim-tree/nvim-web-devicons', -- optional, for file icons
+    }
   }
 end)

@@ -1,11 +1,14 @@
-local keymap = vim.keymap
+local bind = vim.keymap.set
 
 -- Do not yank with x
-keymap.set('n', 'x', '"_x')
+bind('n', 'x', '"_x')
 
 -- Increment/decrement
-keymap.set('n', '+', '<C-a>')
-keymap.set('n', '-', '<C-x>')
+bind('n', '+', '<C-a>')
+bind('n', '-', '<C-x>')
 
 -- New Tab
-keymap.set('n', 'te', ':tabedit<Return>', { silent = true })
+bind('n', 'te', ':tabedit<Return>', { silent = true })
+
+-- Open Tree
+bind('n', '<leader><leader>', ':NvimTreeToggle<CR>')
