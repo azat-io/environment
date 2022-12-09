@@ -1,7 +1,7 @@
 [user]
   name = Azat S.
   email = to@azat.io
-  signingkey = 581CB0AC3AFBF6B22A866D9EAABF6A15BE5271EF
+  signingkey = 2404B5A344E2DB325EE77907D04DB9ECD3B3B4FC
 
 [color]
   diff = auto
