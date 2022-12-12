@@ -30,6 +30,7 @@ alias d="cd ~/Developer/"
 alias ls="exa"
 alias la="exa -la --git"
 alias vim="nvim"
+alias clean-desktop="rm -vrf ~/Desktop/*"
 
 # History
 
