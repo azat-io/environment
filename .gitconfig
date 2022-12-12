@@ -81,7 +81,7 @@
 	gpgsign = true
 
 [gpg]
-	program = /usr/local/bin/gpg
+	program = /opt/homebrew/bin/gpg
 
 [url "ssh://git@github.com/"]
   insteadOf = https://github.com/
