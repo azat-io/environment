@@ -22,7 +22,7 @@ plugins=(
 fpath=(${ASDF_DIR}/completions $fpath)
 autoload -U compinit && compinit
 
-source /usr/local/opt/asdf/libexec/asdf.sh
+source /opt/homebrew/opt/asdf/libexec/asdf.sh
 
 # Aliases
 
