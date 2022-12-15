@@ -104,6 +104,10 @@ brew install pnpm
 # Code formatter for JavaScript, CSS, JSON, GraphQL, Markdown, YAML
 brew install prettier
 
+# Raycast
+# Control your tools with a few keystrokes
+brew install --cask raycast
+
 # RipGrep
 # Search tool like grep and The Silver Searcher
 brew install ripgrep
