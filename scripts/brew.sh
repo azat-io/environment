@@ -96,6 +96,10 @@ brew install node
 # App to write, plan, collaborate, and get organized
 brew install --cask notion
 
+# OpenVPN
+# Client program for the OpenVPN Access Server
+brew install --cask openvpn-connect
+
 # PNPM
 # Fast, disk space efficient package manager
 brew install pnpm
