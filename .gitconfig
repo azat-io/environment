@@ -40,8 +40,8 @@
 
 [alias]
   aa = "!git add . && git status"
-  am = commit -S --amend --no-edit
   bd = branch -D
+  ca = commit -S --amend --no-edit
   cm = commit -S -m
   co = checkout master
   cc = branch -D dev && git fetch origin dev && git cd
@@ -78,10 +78,10 @@
   defaultBranch = main
 
 [commit]
-	gpgsign = true
+  gpgsign = true
 
 [gpg]
-	program = /opt/homebrew/bin/gpg
+  program = /opt/homebrew/bin/gpg
 
 [url "ssh://git@github.com/"]
   insteadOf = https://github.com/
