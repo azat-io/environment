@@ -140,6 +140,10 @@ brew install --cask steam
 # Messaging app with a focus on speed and security
 brew install --cask telegram
 
+# Tig
+# Text interface for Git repositories
+brew install tig
+
 # Transmission
 # Open-source BitTorrent client
 brew install --cask transmission
