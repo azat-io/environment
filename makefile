@@ -1,6 +1,7 @@
 dotfiles:
 	cp ./.gitconfig ~/.gitconfig
 	cp ./.zshrc ~/.zshrc
+	cp ./.tool-versions ~/.tool-versions
 
 vim:
 	rm -rf ~/.local/share/nvim/site/pack/packer/start/packer.nvim
