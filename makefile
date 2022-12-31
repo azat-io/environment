@@ -14,8 +14,7 @@ nerd_font:
 	rm -rf ./temp
 	mkdir ./temp
 	git clone -b master --depth 1 --single-branch git@github.com:ryanoasis/nerd-fonts.git ./temp/nerd-fonts
-	cp ~/Library/Fonts/MartianMono-WdRg.ttf ./temp/MartianMono-WdRg.ttf
-	fontforge -script ./temp/nerd-fonts/font-patcher ./temp/MartianMono-WdRg.ttf
-	mv ./Martian\ Mono\ Wd\ Rg\ Nerd\ Font.ttf ~/Library/Fonts/MartianMono-WdRg-NerdFont.ttf
+	cp ~/Library/Fonts/MartianMono-sWdRg.otf ./temp/MartianMono-sWdRg.otf
+	fontforge -script ./temp/nerd-fonts/font-patcher ./temp/MartianMono-sWdRg.otf
+	mv  ./Martian\ Mono\ sWd\ Rg\ Nerd\ Font.otf  ~/Library/Fonts/
 	rm -rf ./temp
-	rm ./Martian\ Mono\ Wd\ Rg\ Nerd\ Font.ttf
