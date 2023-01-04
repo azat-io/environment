@@ -73,6 +73,10 @@ code --install-extension ricard.postcss
 # Code formatter using prettier
 code --install-extension esbenp.prettier-vscode
 
+# Quokka.js
+# JavaScript and TypeScript playground in your editor
+code --install-extension WallabyJs.quokka-vscode
+
 # Styled Components
 # Syntax highlighting for styled-components
 code --install-extension styled-components.vscode-styled-components
@@ -99,3 +103,7 @@ code --install-extension TabNine.tabnine-vscode
 # Vue Language Features
 # Language support for Vue 3
 code --install-extension Vue.volar
+
+# Wallaby.js
+# Accelerated Distraction-free JavaScript Testing
+code --install-extension WallabyJs.wallaby-vscode
