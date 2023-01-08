@@ -6,6 +6,11 @@ code --install-extension formulahendry.auto-rename-tag
 # Syntax highlight for browserslist files
 code --install-extension webben.browserslist
 
+# Code Spell Checker
+# Spelling checker for source code
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension streetsidesoftware.code-spell-checker-russian
+
 # Docker
 # Makes it easy to create, manage, and debug containerized applications.
 code --install-extension ms-azuretools.vscode-docker
