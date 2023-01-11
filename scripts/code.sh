@@ -11,6 +11,10 @@ code --install-extension webben.browserslist
 code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension streetsidesoftware.code-spell-checker-russian
 
+# Console Ninja
+# JavaScript console.log output and runtime errors right next to your code
+code --install-extension WallabyJs.console-ninja
+
 # Docker
 # Makes it easy to create, manage, and debug containerized applications.
 code --install-extension ms-azuretools.vscode-docker
