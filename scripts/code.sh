@@ -50,6 +50,10 @@ code --install-extension wix.vscode-import-cost
 # AI-assisted development
 code --install-extension VisualStudioExptTeam.vscodeintellicode
 
+# Make support and task provider
+# Extension to run Makefile tasks from VS Code
+code --install-extension carlos-algms.make-task-provider
+
 # Markdown All in One
 # All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
 code --install-extension yzhang.markdown-all-in-one
