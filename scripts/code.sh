@@ -86,6 +86,10 @@ code --install-extension ricard.postcss
 # Code formatter using prettier
 code --install-extension esbenp.prettier-vscode
 
+# Project Manager
+# Easily switch between projects
+code --install-extension alefragnani.project-manager
+
 # Quokka.js
 # JavaScript and TypeScript playground in your editor
 code --install-extension WallabyJs.quokka-vscode
