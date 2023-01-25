@@ -15,10 +15,6 @@ code --install-extension streetsidesoftware.code-spell-checker-russian
 # JavaScript console.log output and runtime errors right next to your code
 code --install-extension WallabyJs.console-ninja
 
-# Docker
-# Makes it easy to create, manage, and debug containerized applications.
-code --install-extension ms-azuretools.vscode-docker
-
 # DotENV
 # Support for dotenv file syntax
 code --install-extension mikestead.dotenv
