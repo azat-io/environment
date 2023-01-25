@@ -117,6 +117,10 @@ code --install-extension mariusschulz.yarn-lock-syntax
 # JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin
 code --install-extension TabNine.tabnine-vscode
 
+# Tailwind CSS IntelliSense
+# Intelligent Tailwind CSS tooling for VS Code
+code --install-extension bradlc.vscode-tailwindcss
+
 # Vue Language Features
 # Language support for Vue 3
 code --install-extension Vue.volar
