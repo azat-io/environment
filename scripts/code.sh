@@ -1,3 +1,7 @@
+# Astro
+# Language support for Astro
+code --install-extension astro-build.astro-vscode
+
 # Auto Rename Tag
 # Auto rename paired HTML/XML tag
 code --install-extension formulahendry.auto-rename-tag
