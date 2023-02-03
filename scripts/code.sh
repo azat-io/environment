@@ -90,6 +90,10 @@ code --install-extension esbenp.prettier-vscode
 # Easily switch between projects
 code --install-extension alefragnani.project-manager
 
+# Turbo Console log
+# Automating the process of writing meaningful log messages
+code --install-extension ChakrounAnas.turbo-console-log
+
 # Quokka.js
 # JavaScript and TypeScript playground in your editor
 code --install-extension WallabyJs.quokka-vscode
