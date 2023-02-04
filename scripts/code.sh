@@ -10,6 +10,10 @@ code --install-extension formulahendry.auto-rename-tag
 # Syntax highlight for browserslist files
 code --install-extension webben.browserslist
 
+# ChatGPT
+# Use browser or official API integration for OpenAI ChatGPT, GPT3 and Codex
+code --install-extension gencay.vscode-chatgpt
+
 # Code Spell Checker
 # Spelling checker for source code
 code --install-extension streetsidesoftware.code-spell-checker
