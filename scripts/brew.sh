@@ -156,6 +156,10 @@ brew install --cask vlc
 # Open-source code editor
 brew install --cask visual-studio-code
 
+# VSCE
+# Tool for packaging, publishing and managing VS Code extensions
+brew install vsce
+
 # Webp Tools
 # Image format providing lossless and lossy compression for web images
 brew install webp
