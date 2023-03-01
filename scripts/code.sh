@@ -39,6 +39,10 @@ code --install-extension dbaeumer.vscode-eslint
 # GitHub Actions workflows and runs for github.com hosted repositories in VS Code
 code --install-extension cschleiden.vscode-github-actions
 
+# GitLens
+# Visualize code authorship at a glance, seamlessly navigate and explore Git repositories
+code --install-extension eamodio.gitlens
+
 # Gruvbox Theme
 code --install-extension jdinhlife.gruvbox
 
