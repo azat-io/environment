@@ -11,8 +11,8 @@ code --install-extension formulahendry.auto-rename-tag
 code --install-extension webben.browserslist
 
 # ChatGPT
-# Use browser or official API integration for OpenAI ChatGPT, GPT3 and Codex
-code --install-extension gencay.vscode-chatgpt
+# Write and improve code using AI
+code --install-extension timkmecl.chatgpt
 
 # Code Spell Checker
 # Spelling checker for source code
