@@ -94,6 +94,10 @@ code --install-extension ricard.postcss
 # Code formatter using prettier
 code --install-extension esbenp.prettier-vscode
 
+# Pretty TypeScript Errors
+# Make TypeScript errors prettier and more human-readable
+code --install-extension yoavbls.pretty-ts-errors
+
 # Project Manager
 # Easily switch between projects
 code --install-extension alefragnani.project-manager
