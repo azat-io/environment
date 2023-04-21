@@ -133,6 +133,10 @@ code --install-extension TabNine.tabnine-vscode
 # Intelligent Tailwind CSS tooling for VS Code
 code --install-extension bradlc.vscode-tailwindcss
 
+# Version Lens
+# Shows the latest version for each package using code lens
+code --install-extension pflannery.vscode-versionlens
+
 # Vue Language Features
 # Language support for Vue 3
 code --install-extension Vue.volar
