@@ -6,6 +6,10 @@ code --install-extension astro-build.astro-vscode
 # Auto rename paired HTML/XML tag
 code --install-extension formulahendry.auto-rename-tag
 
+# Backticks
+# Automatically converts quotes to backticks when entering '${'.
+code --install-extension fractalbrew.backticks
+
 # Browserslist
 # Syntax highlight for browserslist files
 code --install-extension webben.browserslist
