@@ -6,10 +6,6 @@ code --install-extension astro-build.astro-vscode
 # Auto rename paired HTML/XML tag
 code --install-extension formulahendry.auto-rename-tag
 
-# Backticks
-# Automatically converts quotes to backticks when entering '${'.
-code --install-extension fractalbrew.backticks
-
 # Browserslist
 # Syntax highlight for browserslist files
 code --install-extension webben.browserslist
@@ -105,6 +101,10 @@ code --install-extension yoavbls.pretty-ts-errors
 # Project Manager
 # Easily switch between projects
 code --install-extension alefragnani.project-manager
+
+# Template String Converter
+# Converts a string to a template string when ${ is typed
+code --install-extension meganrogge.template-string-converter
 
 # Turbo Console log
 # Automating the process of writing meaningful log messages
