@@ -114,6 +114,10 @@ code --install-extension ChakrounAnas.turbo-console-log
 # JavaScript and TypeScript playground in your editor
 code --install-extension WallabyJs.quokka-vscode
 
+# Smart CSS Autocomplete
+# Autocomplete CSS properties smarter - using an usage statistics instead of standard random
+code --install-extension saionaro.smart-css-autocomplete
+
 # Styled Components
 # Syntax highlighting for styled-components
 code --install-extension styled-components.vscode-styled-components
