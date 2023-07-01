@@ -2,17 +2,9 @@
 # Language support for Astro
 code --install-extension astro-build.astro-vscode
 
-# Auto Rename Tag
-# Auto rename paired HTML/XML tag
-code --install-extension formulahendry.auto-rename-tag
-
 # Browserslist
 # Syntax highlight for browserslist files
 code --install-extension webben.browserslist
-
-# ChatGPT
-# Write and improve code using AI
-code --install-extension timkmecl.chatgpt
 
 # Code Spell Checker
 # Spelling checker for source code
@@ -50,10 +42,6 @@ code --install-extension jdinhlife.gruvbox
 # Syntax support for the Haskell programming language
 code --install-extension justusadam.language-haskell
 
-# Import Cost
-# Display import/require package size in the editor
-code --install-extension wix.vscode-import-cost
-
 # IntelliCode
 # AI-assisted development
 code --install-extension VisualStudioExptTeam.vscodeintellicode
@@ -65,10 +53,6 @@ code --install-extension carlos-algms.make-task-provider
 # Markdown All in One
 # All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
 code --install-extension yzhang.markdown-all-in-one
-
-# Material Icon Theme
-# Material Design Icons for Visual Studio Code
-code --install-extension PKief.material-icon-theme
 
 # MDX
 # Language support for MDX
@@ -144,10 +128,6 @@ code --install-extension TabNine.tabnine-vscode
 # Tailwind CSS IntelliSense
 # Intelligent Tailwind CSS tooling for VS Code
 code --install-extension bradlc.vscode-tailwindcss
-
-# Version Lens
-# Shows the latest version for each package using code lens
-code --install-extension pflannery.vscode-versionlens
 
 # Vue Language Features
 # Language support for Vue 3
