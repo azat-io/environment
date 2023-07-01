@@ -46,6 +46,10 @@ code --install-extension justusadam.language-haskell
 # AI-assisted development
 code --install-extension VisualStudioExptTeam.vscodeintellicode
 
+# JavaScript Booster
+# Boost your productivity with advanced JavaScript / TypeScript refactorings and commands
+code --install-extension sburg.vscode-javascript-booster
+
 # Make support and task provider
 # Extension to run Makefile tasks from VS Code
 code --install-extension carlos-algms.make-task-provider
