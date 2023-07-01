@@ -133,6 +133,9 @@ code --install-extension TabNine.tabnine-vscode
 # Intelligent Tailwind CSS tooling for VS Code
 code --install-extension bradlc.vscode-tailwindcss
 
+# Typograph
+code --install-extension svetlanakost.typograf
+
 # Vue Language Features
 # Language support for Vue 3
 code --install-extension Vue.volar
