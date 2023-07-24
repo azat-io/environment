@@ -15,6 +15,12 @@ code --install-extension streetsidesoftware.code-spell-checker-russian
 # JavaScript console.log output and runtime errors right next to your code
 code --install-extension WallabyJs.console-ninja
 
+# GitHub Copilot
+#Your AI pair programmer
+code --install-extension GitHub.copilot
+code --install-extension GitHub.copilot-labs
+code --install-extension GitHub.copilot-chat
+
 # DotENV
 # Support for dotenv file syntax
 code --install-extension mikestead.dotenv
@@ -124,10 +130,6 @@ code --install-extension shyykoserhiy.vscode-spotify
 
 # Syntax Highlighting for yarn.lock files
 code --install-extension mariusschulz.yarn-lock-syntax
-
-# TabNine
-# JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin
-code --install-extension TabNine.tabnine-vscode
 
 # Tailwind CSS IntelliSense
 # Intelligent Tailwind CSS tooling for VS Code
