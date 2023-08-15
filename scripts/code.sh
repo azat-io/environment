@@ -33,6 +33,10 @@ code --install-extension EditorConfig.EditorConfig
 # Integrates ESLint JavaScript into VS Code
 code --install-extension dbaeumer.vscode-eslint
 
+# Figma
+# Bring Figma into the text editor. Inspect designs, receive notifications, and get code suggestions
+code --install-extension figma.figma-vscode-extension
+
 # GitHub Actions
 # GitHub Actions workflows and runs for github.com hosted repositories in VS Code
 code --install-extension cschleiden.vscode-github-actions
