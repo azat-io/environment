@@ -6,6 +6,11 @@ brew install --cask 1password
 # Extendable version manager with support for Ruby, Node.js, Erlang & more
 brew install asdf
 
+# Bun
+# Fast all-in-one JavaScript runtime
+brew tap oven-sh/bun
+brew install bun
+
 # Curl
 # Get a file from an HTTP, HTTPS or FTP server
 brew install curl
