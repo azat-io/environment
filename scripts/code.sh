@@ -2,6 +2,10 @@
 # Language support for Astro
 code --install-extension astro-build.astro-vscode
 
+# Biome
+# Biome LSP VS Code Extension
+code --install-extension biomejs.biome
+
 # Browserslist
 # Syntax highlight for browserslist files
 code --install-extension webben.browserslist
