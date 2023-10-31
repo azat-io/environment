@@ -3,6 +3,9 @@ cp ./icons/gamecenter.icns /Applications/GameCenterShowcase.app/Contents/Resourc
 cp ./icons/vkplay.icns /Applications/GameCenterShowcase.app/Contents/Frameworks/VKPlayCloud.app/Contents/Resources/playkey_mailru.icns
 touch /Applications/GameCenterShowcase.app
 
+# ImageOptim
+cp ./icons/imageoptim.icns /Applications/ImageOptim.app/Contents/Resources/ImageOptim.icns
+
 # Notion
 cp ./icons/notion.icns /Applications/Notion.app/Contents/Resources/electron.icns
 touch /Applications/Notion.app
